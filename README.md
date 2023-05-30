@@ -122,4 +122,4 @@ Hadoop помогает хранить и обрабатывать массив�
 
 ## Моя подробная работа в Google:
 
-[Моя работа по «Базы данных, их типы»]([https://docs.google.com/](https://docs.google.com/document/d/12P_lN9nAyUP1M_lqCk0koDQoGbj_uryq/edit?usp=share_link&ouid=104113173630640462528&rtpof=true&sd=true)
+[Моя работа по «Базы данных, их типы»](https://docs.google.com/document/d/1PjzOaSpj--PD-gFnNTfeXvWgqs2T_ROZ/edit?usp=share_link&ouid=104113173630640462528&rtpof=true&sd=true)
